@@ -1,11 +1,11 @@
 # Setup
 title: My origin webpage
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: My comfortabel whereplace
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /eyes.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /hands.jpg
 
 # Gems
 plugins:
